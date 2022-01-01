@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy New Year 2022 !
-subtitle: Each post also has a subtitle
+subtitle: Welcome 2022
 tags: [test]
 comments: true
 ---
