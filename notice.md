@@ -1,5 +1,5 @@
 ---
 layout: page
-title: notice
+title: Notice
 subtitle: This is a notice page
 ---
