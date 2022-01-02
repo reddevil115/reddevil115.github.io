@@ -15,7 +15,8 @@ author: LOUIS KIM
 
 navbar-links:
   About Me: "aboutme"
-  Notice: "notice"
+  Page History: "history"
+  
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
