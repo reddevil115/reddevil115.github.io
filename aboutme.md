@@ -12,6 +12,22 @@ subtitle: I'm very glad to show my part of imformations
 
 ## II. Programming Skills :
 
+### I can do:
+
 * C
-* c#
+* C#
 * Unity Engine
+
+### I studying now:
+
+* C++
+* Python
+* JAVA
+
+## III. Human Language :
+
+* Koream : Native
+* English : High Level
+* Japanese : Intermediate
+* Spanish : Beginner
+* French : Interest
